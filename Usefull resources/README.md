@@ -6,6 +6,9 @@
 
 
 # Tools
+Machine learning algorithms visualized
+http://mldemos.b4silio.com/
+
 http://www.monkeylearn.com/
 
 # Recommended courseware
