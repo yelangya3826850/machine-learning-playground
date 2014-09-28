@@ -13,3 +13,6 @@ Every day there are sent roughly 183 billion spam messages. How can machines hel
 
 
 ## Neural networks
+
+## Generic algorithms and utils
+https://github.com/encog/encog-javascript/blob/master/encog.js
