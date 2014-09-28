@@ -16,6 +16,9 @@ http://www.monkeylearn.com/
 Machine Learning Theory: An Introductory Primer
 http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 
+JavaScript Machine Learning and Neural Networks with Encog (not very encog nor js specific)
+http://www.codeproject.com/Articles/477689/JavaScript-Machine-Learning-and-Neural-Networks-wi
+
 Intro to inferential statistics
 https://www.udacity.com/course/ud201?coupon=UMYLVA97CKFD8X4&utm_source=sendgrid&utm_medium=email&utm_campaign=nanodegree-da-723
 
