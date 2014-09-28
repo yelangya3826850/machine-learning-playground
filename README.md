@@ -11,6 +11,7 @@ TODO
 I intend to use frameworks such as:
 https://github.com/karpathy/convnetjs
 https://github.com/harthur/brain
+https://github.com/encog/encog-javascript
 OpenCV
 
 * Check out the [code examples](/Code examples/README.md)
