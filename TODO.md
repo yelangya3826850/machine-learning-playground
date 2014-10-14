@@ -1,3 +1,5 @@
+http://www.quora.com/What-skills-are-needed-for-machine-learning-jobs
+
 https://github.com/josephmisiti/machine-learning-module
 
 https://code.google.com/p/opencvdotnet/
