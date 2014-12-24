@@ -1,32 +1,32 @@
-https://www.data.gov/
-http://www.cs.toronto.edu/~delve/data/datasets.html
-https://bitly.com/bundles/hmason/1
-http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
-http://archive.ics.uci.edu/ml/
-http://www.kdnuggets.com/datasets/index.html
-http://kevinchai.net/datasets
-http://deeplearning.net/datasets/
-http://personality-testing.info/_rawdata/
-http://www.grouplens.org/datasets/movielens/
-https://d396qusza40orc.cloudfront.net/dataanalysis/dataResources.pdf
-http://mldata.org/
-http://www.kdnuggets.com/datasets/index.html
-http://kdd.ics.uci.edu/
-http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/
-http://cervisia.org/machine_learning_data.php
+## Generic (uncategorized)
+* https://www.data.gov/
+* http://www.cs.toronto.edu/~delve/data/datasets.html
+* https://bitly.com/bundles/hmason/1
+* http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
+* http://archive.ics.uci.edu/ml/
+* http://www.kdnuggets.com/datasets/index.html
+* http://kevinchai.net/datasets
+* http://deeplearning.net/datasets/
+* http://personality-testing.info/_rawdata/
+* http://www.grouplens.org/datasets/movielens/
+* https://d396qusza40orc.cloudfront.net/dataanalysis/dataResources.pdf
+* http://mldata.org/
+* http://www.kdnuggets.com/datasets/index.html
+* http://kdd.ics.uci.edu/
+* http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/
+* http://cervisia.org/machine_learning_data.php
 
+## Deep Learning
+* http://deeplearning.net/datasets/
 
-Deep Learning
-http://deeplearning.net/datasets/
+## Visual
+* http://www.cs.cmu.edu/afs/cs.cmu.edu/user/avrim/www/ML94/face_homework.html
 
-Visual
-http://www.cs.cmu.edu/afs/cs.cmu.edu/user/avrim/www/ML94/face_homework.html
-
-Text
+## Text
 http://www.daviddlewis.com/resources/testcollections/reuters21578/
 http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/wordsim353.html
 
-Health
+## Health
 
-Geography
-http://lib.stat.cmu.edu/datasets/
+## Geography
+* http://lib.stat.cmu.edu/datasets/
