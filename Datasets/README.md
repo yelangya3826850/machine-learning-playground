@@ -9,6 +9,15 @@ http://deeplearning.net/datasets/
 http://personality-testing.info/_rawdata/
 http://www.grouplens.org/datasets/movielens/
 https://d396qusza40orc.cloudfront.net/dataanalysis/dataResources.pdf
+http://mldata.org/
+http://www.kdnuggets.com/datasets/index.html
+http://kdd.ics.uci.edu/
+http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Datasets/
+http://cervisia.org/machine_learning_data.php
+
+
+Deep Learning
+http://deeplearning.net/datasets/
 
 Visual
 http://www.cs.cmu.edu/afs/cs.cmu.edu/user/avrim/www/ML94/face_homework.html
