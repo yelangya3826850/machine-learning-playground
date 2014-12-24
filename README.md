@@ -3,7 +3,7 @@ Machine learning playground
 This is where I will document my journey into statistics, artificial intelligence and machine learning.
 I will share usefull resources and code examples that I hope will help others along the way.
 
-Playing around with data.
+[The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn)
 
 ## What kind of problems can you solve with machine learning?
 TODO
