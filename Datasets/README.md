@@ -23,8 +23,8 @@
 * http://www.cs.cmu.edu/afs/cs.cmu.edu/user/avrim/www/ML94/face_homework.html
 
 ## Text
-http://www.daviddlewis.com/resources/testcollections/reuters21578/
-http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/wordsim353.html
+* http://www.daviddlewis.com/resources/testcollections/reuters21578/
+* http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/wordsim353.html
 
 ## Health
 
